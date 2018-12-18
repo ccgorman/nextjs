@@ -2,6 +2,8 @@
 
 Automatic routing and code splitting, but requires a file structure.
 
+Uses style-jsx package to style components.
+
 1. Create repo
 2. Create git ignore
 3. > npm init
