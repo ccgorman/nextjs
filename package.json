@@ -1,0 +1,26 @@
+{
+  "name": "nextjs",
+  "version": "1.0.0",
+  "description": "Testing out nextjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccgorman/nextjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccgorman/nextjs/issues"
+  },
+  "homepage": "https://github.com/ccgorman/nextjs#readme",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
