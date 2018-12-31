@@ -9847,7 +9847,7 @@ var errorPage = function errorPage() {
       lineNumber: 6
     },
     __self: this
-  }, "OOps, something went wrong"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "OOps, something went wrong ok"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 7
